@@ -1,0 +1,80 @@
+body{
+  font-family: "Lato",sans-serif;
+}
+
+h2{
+  padding-bottom: 15px;
+}
+
+.jumbotron{
+  background-color: #13124f;
+  color: white;
+}
+
+.pinkbutton{
+  background-color: #f61067;
+  color: white;
+  text-transform: uppercase; 
+  border-width: medium;
+}
+
+.clearbutton{
+  backgroundcolor: white;
+  border-color: #2ad392;
+  color: #2ad392;
+  text-transform: uppercase;
+  border-width: medium;
+}
+
+.jumbotron h3{
+  padding-bottom: 15px;
+}
+
+.glyphicon{
+  padding: 0px 10px;
+}
+
+.badge{
+  background-color: #13124f;
+  color: white;
+  margin-left: 8px;
+}
+
+.panel{
+  margin-top: 20px;
+}
+
+.panel .panel-heading{
+  background-color: #9090a5;
+  color: white;
+  font-size: 20px;
+}
+
+.pre-greet{
+  background-color: #13124f;
+  color: white;
+  font-size: 15px;    
+}
+
+.greet{
+  background-color: #1b1b6c;
+  color: #9090a5;
+  font-size: 15px;    
+}
+
+.doubt{
+  background-color: #352ba5;  
+  text-align: center;
+}
+
+.doubt a{
+  color: white;
+}
+
+p{
+  margin-bottom: 20px;
+}
+
+.panel .panel.body p{
+  font-size: 16px;
+}
